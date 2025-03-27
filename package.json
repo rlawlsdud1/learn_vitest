@@ -7,5 +7,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "learn vitest"
+  "description": "learn vitest",
+  "devDependencies": {
+    "vitest": "^3.0.9"
+  }
 }
